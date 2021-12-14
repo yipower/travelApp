@@ -1,0 +1,311 @@
+{
+
+    "data":[
+        {
+            "city":"上海",
+            "imgUrlList":[
+                {
+                    "id":"01",
+                    "imgUrl":"http://localhost:8080/static/mock/swiper/swiper1.jpg"
+                } ,
+                {
+                    "id":"02",
+                    "imgUrl":"http://localhost:8080/static/mock/swiper/swiper2.jpg"
+                } ,
+                {
+                    "id":"03",
+                    "imgUrl":"http://localhost:8080/static/mock/swiper/swiper3.jpg"
+                } 
+              ],
+              "vacationList":[
+                {
+                    "imgUrl":"http://localhost:8080/static/mock/swiper/swiper1.jpg",
+                    "text1":"漂流涌进，烧烤露营",
+                    "text2":"轻松水上漂，任我乐逍遥"
+                },
+                  {
+                    "imgUrl":"http://localhost:8080/static/mock/swiper/swiper1.jpg",
+                    "text1":"漂流涌进，烧烤露营",
+                    "text2":"轻松水上漂，任我乐逍遥"
+                }
+                
+            ] ,
+            "likeList": [
+                {
+                  "id":"01",
+                  "imgUrl":"http://localhost:8080/static/mock/icons/10.jpg",
+                  "title":"东方明珠",
+                  "msg":"1314评论区",
+                  "mark":"18.8",
+                  "map":"平谷区"
+                },
+                {
+                    "id":"02",
+                    "imgUrl":"http://localhost:8080/static/mock/icons/10.jpg",
+                    "title":"东方明珠",
+                    "msg":"1314评论区",
+                    "mark":"18.8",
+                    "map":"平谷区"
+                  },
+                  {
+                    "id":"03",
+                    "imgUrl":"http://localhost:8080/static/mock/icons/10.jpg",
+                    "title":"东方明珠",
+                    "msg":"1314评论区",
+                    "mark":"18.8",
+                    "map":"平谷区"
+                  },
+                  {
+                    "id":"04",
+                    "imgUrl":"http://localhost:8080/static/mock/icons/10.jpg",
+                    "title":"东方明珠",
+                    "msg":"1314评论区",
+                    "mark":"18.8",
+                    "map":"平谷区"
+                  }
+            ],
+            "hotList":[
+                {
+                    "urlList":"http://localhost:8080/static/mock/icons/08.jpg",
+                    "title":"东方明珠",
+                    "mark":20
+                },
+                {
+                    "urlList":"http://localhost:8080/static/mock/icons/08.jpg",
+                    "title":"东方明珠",
+                    "mark":20
+                },
+                {
+                    "urlList":"http://localhost:8080/static/mock/icons/08.jpg",
+                    "title":"东方明珠",
+                    "mark":20
+                },
+                {
+                    "urlList":"http://localhost:8080/static/mock/icons/08.jpg",
+                    "title":"东方明珠",
+                    "mark":20
+                },
+                {
+                    "urlList":"http://localhost:8080/static/mock/icons/08.jpg",
+                    "title":"东方明珠",
+                    "mark":20
+                },
+                {
+                    "urlList":"http://localhost:8080/static/mock/icons/08.jpg",
+                    "title":"东方明珠",
+                    "mark":20
+                },
+                {
+                    "urlList":"http://localhost:8080/static/mock/icons/08.jpg",
+                    "title":"东方明珠",
+                    "mark":20
+                }
+            ],
+            "iconList": [
+                {
+                  "id": "01",
+                  "iconUrl":"http://localhost:8080/static/mock/icons/icon1.png",
+                  "title": "飞机"
+                },
+                {
+                    "id": "02",
+                    "iconUrl":"http://localhost:8080/static/mock/icons/icon2.png",
+                    "title": "飞机"
+                  },
+                  {
+                    "id": "03",
+                    "iconUrl":"http://localhost:8080/static/mock/icons/icon3.png",
+                    "title": "飞机"
+                  },
+                  {
+                    "id": "04",
+                    "iconUrl":"http://localhost:8080/static/mock/icons/icon4.png",
+                    "title": "飞机"
+                  },
+                  {
+                    "id": "05",
+                    "iconUrl":"http://localhost:8080/static/mock/icons/icon1.png",
+                    "title": "飞机"
+                  },
+                  {
+                    "id": "06",
+                    "iconUrl":"http://localhost:8080/static/mock/icons/icon2.png",
+                    "title": "飞机"
+                  },
+                  {
+                    "id": "07",
+                    "iconUrl":"http://localhost:8080/static/mock/icons/icon3.png",
+                    "title": "飞机"
+                  },
+                  {
+                    "id": "08",
+                    "iconUrl":"http://localhost:8080/static/mock/icons/icon4.png",
+                    "title": "飞机"
+                  },
+                  {
+                    "id": "09",
+                    "iconUrl":"http://localhost:8080/static/mock/icons/icon1.png",
+                    "title": "飞机"
+                  },
+                  {
+                    "id": "10",
+                    "iconUrl":"http://localhost:8080/static/mock/icons/icon2.png",
+                    "title": "飞机"
+                  }
+              ]
+        },
+        {
+          "city":"北京",
+          "imgUrlList":[
+              {
+                  "id":"01",
+                  "imgUrl":"http://localhost:8080/static/mock/swiper/swiper1.jpg"
+              } ,
+              {
+                  "id":"02",
+                  "imgUrl":"http://localhost:8080/static/mock/swiper/swiper2.jpg"
+              } ,
+              {
+                  "id":"03",
+                  "imgUrl":"http://localhost:8080/static/mock/swiper/swiper3.jpg"
+              } 
+            ],
+            "vacationList":[
+              {
+                  "imgUrl":"http://localhost:8080/static/mock/swiper/swiper1.jpg",
+                  "text1":"漂流涌进，烧烤露营",
+                  "text2":"轻松水上漂，任我乐逍遥"
+              },
+                {
+                  "imgUrl":"http://localhost:8080/static/mock/swiper/swiper1.jpg",
+                  "text1":"漂流涌进，烧烤露营",
+                  "text2":"轻松水上漂，任我乐逍遥"
+              }
+              
+          ] ,
+          "likeList": [
+              {
+                "id":"01",
+                "imgUrl":"http://localhost:8080/static/mock/icons/10.jpg",
+                "title":"故宫",
+                "msg":"1314评论区",
+                "mark":"18.8",
+                "map":"平谷区"
+              },
+              {
+                  "id":"02",
+                  "imgUrl":"http://localhost:8080/static/mock/icons/10.jpg",
+                  "title":"故宫",
+                  "msg":"1314评论区",
+                  "mark":"18.8",
+                  "map":"平谷区"
+                },
+                {
+                  "id":"03",
+                  "imgUrl":"http://localhost:8080/static/mock/icons/10.jpg",
+                  "title":"故宫",
+                  "msg":"1314评论区",
+                  "mark":"18.8",
+                  "map":"平谷区"
+                },
+                {
+                  "id":"04",
+                  "imgUrl":"http://localhost:8080/static/mock/icons/10.jpg",
+                  "title":"故宫",
+                  "msg":"1314评论区",
+                  "mark":"18.8",
+                  "map":"平谷区"
+                }
+          ],
+          "hotList":[
+              {
+                  "urlList":"http://localhost:8080/static/mock/icons/08.jpg",
+                  "title":"故宫",
+                  "mark":20
+              },
+              {
+                  "urlList":"http://localhost:8080/static/mock/icons/08.jpg",
+                  "title":"故宫",
+                  "mark":20
+              },
+              {
+                  "urlList":"http://localhost:8080/static/mock/icons/08.jpg",
+                  "title":"故宫",
+                  "mark":20
+              },
+              {
+                  "urlList":"http://localhost:8080/static/mock/icons/08.jpg",
+                  "title":"故宫",
+                  "mark":20
+              },
+              {
+                  "urlList":"http://localhost:8080/static/mock/icons/08.jpg",
+                  "title":"故宫",
+                  "mark":20
+              },
+              {
+                  "urlList":"http://localhost:8080/static/mock/icons/08.jpg",
+                  "title":"故宫",
+                  "mark":20
+              },
+              {
+                  "urlList":"http://localhost:8080/static/mock/icons/08.jpg",
+                  "title":"故宫",
+                  "mark":20
+              }
+          ],
+          "iconList": [
+              {
+                "id": "01",
+                "iconUrl":"http://localhost:8080/static/mock/icons/icon1.png",
+                "title": "火车"
+              },
+              {
+                  "id": "02",
+                  "iconUrl":"http://localhost:8080/static/mock/icons/icon2.png",
+                  "title": "火车"
+                },
+                {
+                  "id": "03",
+                  "iconUrl":"http://localhost:8080/static/mock/icons/icon3.png",
+                  "title": "火车"
+                },
+                {
+                  "id": "04",
+                  "iconUrl":"http://localhost:8080/static/mock/icons/icon4.png",
+                  "title": "火车"
+                },
+                {
+                  "id": "05",
+                  "iconUrl":"http://localhost:8080/static/mock/icons/icon1.png",
+                  "title": "火车"
+                },
+                {
+                  "id": "06",
+                  "iconUrl":"http://localhost:8080/static/mock/icons/icon2.png",
+                  "title": "火车"
+                },
+                {
+                  "id": "07",
+                  "iconUrl":"http://localhost:8080/static/mock/icons/icon3.png",
+                  "title": "火车"
+                },
+                {
+                  "id": "08",
+                  "iconUrl":"http://localhost:8080/static/mock/icons/icon4.png",
+                  "title": "火车"
+                },
+                {
+                  "id": "09",
+                  "iconUrl":"http://localhost:8080/static/mock/icons/icon1.png",
+                  "title": "火车"
+                },
+                {
+                  "id": "10",
+                  "iconUrl":"http://localhost:8080/static/mock/icons/icon2.png",
+                  "title": "火车"
+                }
+            ]
+      }
+    ]
+}
